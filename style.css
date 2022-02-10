@@ -1,0 +1,60 @@
+body {
+    background-color:pink;
+}
+
+.smol {
+    width:10%;
+}
+
+#sup {
+    display:block;
+    position:fixed;
+    width:30%;
+    top:65%;
+    left: 5%;
+}
+
+
+.date {
+    font-size:15px;
+    color:darkslateblue;
+}
+
+.pic {
+    height:65%;
+    display:block;
+}
+#welcome { 
+    box-shadow: 0px 0px 41px 50px #FFFFFF;
+    display:block;
+    position:fixed;
+    top:0;
+    width:30%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:100px;
+}
+
+#me {
+    display:block;
+    position:fixed;
+    top:27%;
+    width:20%;
+    margin-left:5%;
+    margin-bottom:100px;
+}
+
+div {
+    display:block;
+    background-color:white;
+    width:50%;
+    margin-left:40%;
+    padding-left:50px;
+    padding-right:50px;
+    padding-bottom:1px;
+    padding-top:1px;
+    margin-top:30px;
+}
+h1 {
+    text-decoration:underline;
+}
